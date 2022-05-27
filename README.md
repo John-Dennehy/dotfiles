@@ -1,2 +1,6 @@
 # dotfiles
-Fo sharing my dotfiles between systems using www.chezmoi.io
+For sharing my dotfiles between systems using www.chezmoi.io
+
+``` sh
+chezmoi init https://github.com/username/dotfiles.git
+```
